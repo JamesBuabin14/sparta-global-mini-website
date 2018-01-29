@@ -1,0 +1,51 @@
+.body {
+  background-image: url("./img/background-image.jpg");
+}
+
+body > header > div > div > p:nth-child(3) > a{
+  background:#3d2f5a;
+  border-radius: 30px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #000099;
+   color: white;
+   text-align: center;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.image-descrip{
+  color: blue;
+}
+
+.footer-sitemap{
+  list-style-type: none;
+  float: left;
+}
+
+.container
+{
+  width:980px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #000099;
+   color: white;
+   text-align: center;
+}
+
+.footer-sitemap{
+  list-style-type: none;
+  float: left;
+}
